@@ -1,0 +1,38 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>23.1f276</Version>
+<Cluster>
+<Name>Settings in</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Hardware Configuration</Name>
+<NumElts>2</NumElts>
+<Refnum>
+<Name>cDAQ</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val></Val>
+</Refnum>
+<EW>
+<Name>Signal Type</Name>
+<Choice>Temperature</Choice>
+<Choice>Sine Wave</Choice>
+<Choice>Square with Noise</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name>Logging Configuration</Name>
+<NumElts>2</NumElts>
+<Path>
+<Name>Log File Base Path</Name>
+<Val>C:\Users\steve\OneDrive\Documents\LabVIEW Data\Logged Data.tdms</Val>
+</Path>
+<Refnum>
+<Name>TDMS File Reference</Name>
+<RefKind>TDMS File</RefKind>
+<Val>0x00000000</Val>
+</Refnum>
+</Cluster>
+</Cluster>
+</LVData>
