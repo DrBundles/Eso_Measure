@@ -20,4 +20,6 @@
 	<Item Name="Initialize Hardware References.vi" Type="VI" URL="../Initialize Hardware References.vi"/>
 	<Item Name="Stop Acquisition.vi" Type="VI" URL="../Stop Acquisition.vi"/>
 	<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
+	<Item Name="Multiplexer Set Channel.vi" Type="VI" URL="../Multiplexer Set Channel.vi"/>
+	<Item Name="Multiplexer_MeasurementAndControl.vi" Type="VI" URL="../Custom subVIs/Multiplexer_MeasurementAndControl.vi"/>
 </Library>

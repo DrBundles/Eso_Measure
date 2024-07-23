@@ -6,27 +6,36 @@
 <NumElts>2</NumElts>
 <Cluster>
 <Name>Hardware Configuration</Name>
-<NumElts>2</NumElts>
+<NumElts>3</NumElts>
 <Refnum>
-<Name>cDAQ</Name>
+<Name>AIDAQ</Name>
 <RefKind>Generic Tag</RefKind>
 <RefType>NIDAQ</RefType>
 <Val></Val>
 </Refnum>
 <EW>
 <Name>Signal Type</Name>
-<Choice>Temperature</Choice>
+<Choice>cDAQ Thermistor</Choice>
+<Choice>cDAQ TC</Choice>
+<Choice>cDAQ RTD</Choice>
+<Choice>myDAQ Temp</Choice>
 <Choice>Sine Wave</Choice>
 <Choice>Square with Noise</Choice>
-<Val>0</Val>
+<Val>1</Val>
 </EW>
+<Refnum>
+<Name>DODAQ</Name>
+<RefKind>Generic Tag</RefKind>
+<RefType>NIDAQ</RefType>
+<Val></Val>
+</Refnum>
 </Cluster>
 <Cluster>
 <Name>Logging Configuration</Name>
 <NumElts>2</NumElts>
 <Path>
 <Name>Log File Base Path</Name>
-<Val>C:\Users\steve\OneDrive\Documents\LabVIEW Data\Logged Data.tdms</Val>
+<Val>C:\Users\steve\OneDrive\Documents\LabVIEW Data\Logged DataSLTC2.tdms</Val>
 </Path>
 <Refnum>
 <Name>TDMS File Reference</Name>
