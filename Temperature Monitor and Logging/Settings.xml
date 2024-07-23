@@ -21,7 +21,7 @@
 <Choice>myDAQ Temp</Choice>
 <Choice>Sine Wave</Choice>
 <Choice>Square with Noise</Choice>
-<Val>1</Val>
+<Val>0</Val>
 </EW>
 <Refnum>
 <Name>DODAQ</Name>
@@ -35,7 +35,7 @@
 <NumElts>2</NumElts>
 <Path>
 <Name>Log File Base Path</Name>
-<Val>C:\Users\steve\OneDrive\Documents\LabVIEW Data\Logged DataSLTC2.tdms</Val>
+<Val>C:\Users\steve\OneDrive\Documents\LabVIEW Data\Logged DataSL_emulated.tdms</Val>
 </Path>
 <Refnum>
 <Name>TDMS File Reference</Name>
