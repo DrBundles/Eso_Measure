@@ -22,4 +22,5 @@
 	<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
 	<Item Name="Multiplexer Set Channel.vi" Type="VI" URL="../Multiplexer Set Channel.vi"/>
 	<Item Name="Multiplexer_MeasurementAndControl.vi" Type="VI" URL="../Custom subVIs/Multiplexer_MeasurementAndControl.vi"/>
+	<Item Name="Temp from Voltage Calculator.vi" Type="VI" URL="../Custom subVIs/Temp from Voltage Calculator.vi"/>
 </Library>
